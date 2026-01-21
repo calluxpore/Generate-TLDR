@@ -1,0 +1,11 @@
+{
+	"id": "generate-tldr",
+	"name": "Generate TLDR",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Generate concise TLDR summaries of your notes using Google's Gemini Flash model.",
+	"author": "Obsidian",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
