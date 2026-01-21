@@ -29,9 +29,8 @@ BRAT is the recommended way to install and keep this plugin updated.
    - Click **Add Beta Plugin**
    - Enter this repository URL:
      ```
-     https://github.com/YOUR_USERNAME/obsidian-plugin-generate-tldr
+     https://github.com/calluxpore/Generate-TLDR
      ```
-     *(Replace `YOUR_USERNAME` with the actual GitHub username/organization)*
    - Click **Add Plugin**
    - The plugin will appear in your Community plugins list
    - Enable it from **Settings → Community plugins**
